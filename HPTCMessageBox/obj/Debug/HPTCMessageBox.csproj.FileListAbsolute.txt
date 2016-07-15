@@ -1,0 +1,8 @@
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\bin\Debug\HPTCMessageBox.dll
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\bin\Debug\HPTCMessageBox.pdb
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.csprojResolveAssemblyReference.cache
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.MSBox.resources
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.csproj.GenerateResource.Cache
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.dll
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.pdb
+C:\Users\HPTC\Desktop\HPTCMessageBox\HPTCMessageBox\obj\Debug\HPTCMessageBox.Properties.Resources.resources
